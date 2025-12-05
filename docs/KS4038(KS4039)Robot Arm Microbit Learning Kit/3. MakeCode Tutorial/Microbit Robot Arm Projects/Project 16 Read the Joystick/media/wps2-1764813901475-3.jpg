@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="generator" content="GoAmzAI(Pro-Version)">
+    <link rel="shortcut icon" href="https://www.aiboss.chat/file/upload/2025/12/02/1995802893810143232.png"/>
+    <link rel="apple-touch-icon" href="https://www.aiboss.chat/file/upload/2025/12/02/1995802893810143232.png"/>
+    <title>太极AI</title>
+    <meta name="keywords" content="太极AI">
+    <meta name="description" content="太极AI">
+    <script type="text/javascript">window.aiSiteInfo={"setting":{"mobileMaxShow":6,"share":true,"captchaMode":"slide","guestUserAccess":true,"oauth":[],"integralIcon":"⚡","integralName":"积分","codeCaptcha":false,"giftSign":true,"footerContent":"","wechatBrowserPay":false,"authPageBanner":[{"src":"https://img.feixuekeji.com/i/2025/08/16/689fc437ea37e.webp"}],"captchaOffLogin":true},"gm":{},"logo":"https://www.aiboss.chat/file/upload/2025/12/02/1995802893810143232.png","style":{"primaryColor":"#7848f1","primaryColorHover":"#7148dc","primaryColorPressed":"#6836e3","primaryColorSuppl":"#6836e3","primaryLowColor":"#ede4fe","primaryLowColorDark":"#2b2054","borderRadius":"10px","logoScanLight":true},"auth":{"phoneRegValidate":true,"mailReg":true,"mailCodeLogin":true,"mailRegValidate":true,"phoneReg":true,"phoneCodeLogin":true},"menus":[{"badgeColor":"#E02929","key":"chat","action":"path","value":"/chat","open":true,"icon":"ri:chat-ai-line","sys":true},{"name":"绘画","badgeColor":"#E02929","key":"draw","action":"path","value":"/draw","open":true,"icon":"ic:outline-draw","sys":true},{"badgeColor":"#E02929","key":"ppt","action":"path","value":"/ppt","open":true,"icon":"icon-park-outline:ppt","sys":true},{"badgeColor":"#E02929","key":"galleries","action":"path","value":"/galleries","open":true,"icon":"ant-design:picture-outlined","sys":true},{"name":"脑图","badgeColor":"#E02929","key":"mind","action":"path","value":"/mind","open":true,"icon":"material-symbols:mindfulness-outline","sys":true},{"badgeColor":"#E02929","key":"promotion","action":"path","value":"/promotion","open":true,"icon":"ph:handshake-duotone","sys":true},{"name":"客户端","key":"89c05ee9abed872a41270788d42ef71a","action":"web","value":"https://feixue.lanzouj.com/b038ykvafi","open":true,"icon":"fas fa-cloud-download-alt"},{"name":"购买VIP","key":"1dbda680556b53754df8f30f6feeddf9","action":"path","value":"/me/product","open":true,"icon":"fa-brands fa-web-awesome "}],"mt":{},"dd":"YnUrLd3d3LmFpYm9zcy5jaGF0h1oiy","ofd":true,"name":"太极AI"}</script>
+  <script type="module" crossorigin src="/assets/app-C_7JPSx2.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/app-DHe5m7d_.css">
+  <script type="module">import.meta.url;import("_").catch(()=>1);async function* g(){};if(location.protocol!="file:"){window.__vite_is_modern_browser=true}</script>
+  <script type="module">!function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
+</head>
+<body>
+<div id="app">
+    <div id="app-init-box">
+        <div class="_p"><img src="https://www.aiboss.chat/file/upload/2025/12/02/1995802893810143232.png" alt="LOGO"/>
+            <h2>太极AI</h2>
+            <div class="_t">
+                <div class="__loading"></div>
+            </div>
+        </div>
+    </div>
+</div>
+  <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
+  <script nomodule crossorigin id="vite-legacy-polyfill" src="/assets/polyfills-legacy-C449UNn8.js"></script>
+  <script nomodule crossorigin id="vite-legacy-entry" data-src="/assets/app-legacy-DJM9WCaz.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+</body>
+</html>
+
