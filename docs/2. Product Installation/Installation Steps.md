@@ -74,7 +74,7 @@ Components Needed
 
 ![img](./media/wps20.jpg)
 
-2.[Click here to download the calibration code for Servo Motor 4 (Left Servo)](./Code/Set Servo 4 to 180°.hex)
+2.[Click here to download the calibration code for Servo Motor 4 (Left Servo)](./Code/Servo_4.7z)
 
 3.Drag the downloaded code into the MICROBIT drive letter.![](./media/image-20251204155500616.png)
 
@@ -122,7 +122,7 @@ Pay attention to the gap on the acrylic board
 
 ![img](./media/wps32.jpg)
 
-2.[Click here to download the calibration code for Servo Motor 1 (Right Servo)](./Code/Set Servo 1 to 0°)
+2.[Click here to download the calibration code for Servo Motor 1 (Right Servo)](./Code/Servo_1.7z)
 
 3.Drag the downloaded code into the MICROBIT drive letter.
 
@@ -340,7 +340,7 @@ Pay attention to the gap on the acrylic board
 
 ![img](./media/wps113.jpg)
 
-2.[Click here to download the calibration code for Servo Motor  3(Claw Servo)](./Code/Set Servo 3 to 180°.hex)
+2.[Click here to download the calibration code for Servo Motor  3(Claw Servo)](./Code/Servo_3.7z)
 
 3.Drag the downloaded code into the MICROBIT drive letter.
 
@@ -384,7 +384,7 @@ Pay attention to the gap on the acrylic board
 
 ![img](./media/wps124.jpg)
 
-2.[Click here to download the calibration code for Servo Motor  2(Bottom Servo)](./Code/Set Servo 3 to 180°.hex)
+2.[Click here to download the calibration code for Servo Motor  2(Bottom Servo)](./Code/Servo_2.7z)
 
 3.Drag the downloaded code into the MICROBIT drive letter.
 
