@@ -1,5 +1,9 @@
+===============
+Microbit Robot Arm Tutorial(MakeCode)
+===============
+
 General Guide on Importing Micro:bit Extensions
-===============================================
+-----------------------------------------------
 
 To use specific hardware components, you need to add the corresponding
 extension library first.
@@ -20,7 +24,7 @@ search bar and press Enter. Click the extension card to add it.
 
    ::
 
-      Extensions_URL:https://github.com/keyestudio2019/pxt-pca9685-smallest
+      Extensions_URL: https://github.com/keyestudio2019/pxt-pca9685-smallest
 
 2. Paste the URL into the search bar on the Extensions page.
 

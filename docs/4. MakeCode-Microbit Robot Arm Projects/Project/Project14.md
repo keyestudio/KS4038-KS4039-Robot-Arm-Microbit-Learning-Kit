@@ -2,13 +2,13 @@
 
 ------
 
-## 1.Description
+## 1. Description
 
 In the previous project, we set the servo angle. But **what exactly is a servo?** A servo is a motor designed for **precise movement**. It is widely used in toy cars, remote-controlled helicopters, aircraft, robots, and other fields. In this project, we are going to learn **how to control** the rotation of the servo.
 
 ------
 
-## 2.Component Introduction
+## 2. Component Introduction
 
 ![img](./media/wps1.jpg)
 
@@ -39,15 +39,15 @@ The IC on the circuit board **determines** the rotation direction based on this 
 
 ------
 
-## 3.Wiring Diagram
+## 3. Wiring Diagram
 
 ![img](./media/wps2.jpg)
 
 ------
 
-## 4.Test Code
+## 4. Test Code
 
-### 1.Preparations
+### 1. Preparations
 
 1. Insert the Micro:bit into the robot arm's **16-channel servo shield**.
 2. Connect the external power supply.
@@ -58,7 +58,7 @@ Import Hex file, or drag the code manually (add the **pca9685** extension librar
 
 ------
 
-### 2.drag the code manually
+### 2. drag the code manually
 
 #### Add pca9685 Extension
 
@@ -82,7 +82,7 @@ After downloading the code, simply drag it directly into the coding area to uplo
 
 ------
 
-## Test Result
+## 5. Test Result
 
 Download the code to the Micro:bit and power on using external power.
  Press the reset button on the Micro:bit board.

@@ -1,4 +1,4 @@
-# Project 16：Read the Joystick
+# Project 16 Read the Joystick
 
 ------
 
@@ -10,7 +10,7 @@ The **X and Y pins** of the module are **analog inputs**, allowing you to direct
 
 ------
 
-## 2.Component Introduction
+## 2. Component Introduction
 
 ![img](./media/p1.jpg)
 
@@ -43,13 +43,13 @@ The module primarily uses a **PS2 joystick component**. It contains three signal
 
 ------
 
-## 3.Wiring Diagram
+## 3. Wiring Diagram
 
 ![img](./media/p2.jpg)
 
 ------
 
-## 4.Test Code
+## 4. Test Code
 
 ### 1.Preparations
 
@@ -60,13 +60,13 @@ The module primarily uses a **PS2 joystick component**. It contains three signal
 
 ------
 
-### 2.drag the code manually
+### 2. drag the code manually
 
 *(Note: This project uses standard input/output blocks and does not strictly require the specific extension used in previous servo projects, but ensure your board settings are correct.)*
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S01313-55289-45891-03222" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
-### 3.Import Hex file
+### 3. Import Hex file
 
 **To import the Hex file directly, please locate the downloaded Hex file and drag it into the editor.**
 

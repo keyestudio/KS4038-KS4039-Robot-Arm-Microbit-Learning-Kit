@@ -1,6 +1,6 @@
-# Tutorial
+# Microbit Basic Tutorial(MakeCode)
 
-## 1.Getting Started with Micro:bit
+## 1. Getting Started with Micro:bit
 
 Step 1: connect the Micro: Bit main board V2 with your computer
 
@@ -80,17 +80,17 @@ After installation is complete, we will use this tool in our subsequent lessons.
 
 [Click to download the code for this lesson](./Code/Heartbeat.hex)
 
-### (1)Project Description
+### (1) Project Description
 
 (1) Project DescriptionThis project is easy to conduct with a micro:bit V2 main board, a Micro USB cable and a computer. The micro:bit LED dot matrix will display a relatively big heart-shaped pattern and then a smaller one. This alternative change of this pattern is like heart beating. This experiment serves as a starter for your entry to the programming world.
 
-### (2)Components Needed:
+### (2) Components Needed:
 
 Micro:bit main board V2 
 
 Micro USB cable
 
-### (3)Test Code:
+### (3) Test Code:
 
 Attach the Micro:bit main board V2 to your computer via the Micro USB cable and begin editing.
 
@@ -102,7 +102,7 @@ Complete Program :
 
 Note: the "on start" means that the code in this block only executes once, while "forever" implies that the code runs cyclically.
 
-### (4)Test Results:
+### (4) Test Results:
 
 After uploading the code, you will see a heartbeat effect appear on the Microbit board.
 
@@ -114,19 +114,19 @@ After uploading the code, you will see a heartbeat effect appear on the Microbit
 
 [Click to download the code for this lesson](./Code/Light-A-Single-LED.hex)
 
-### (1)Project Description:
+### (1) Project Description:
 
 (1)Project Description:The LED dot matrix consists of 25 LEDs arranged in a 5 by 5 square. In order to locate these LEDs quickly, as the figure shown below, we can regarded this matrix as a coordinate system and create two aces by marking those in rows from 0 to 4 from top to bottom, and the ones in columns from 0 to 4 from the left to the right. Therefore, the LED sat in the second of the first line is (1,0) and the LED positioned in the fifth of the fourth column is (3,4) and others likewise.
 
 ![](./images/image-20250904102610952.png)
 
-### (2)Components Needed:
+### (2) Components Needed:
 
 Micro:bit main board V2 
 
  Micro USB cable
 
-### (3)Test Code:
+### (3) Test Code:
 
 Attach the Micro:bit main board V2 to your computer via the Micro USB cable and begin editing.
 
@@ -136,7 +136,7 @@ Complete Program :
 
 ![](./images/4.png)
 
-### (4)Test Results
+### (4) Test Results
 
 After uploading the code, you will observe the Microbit board display the following effect: (1,0) lights up for 0.5 seconds before turning off, followed by (3,4) lighting up for 0.5 seconds before turning off, repeating in a loop.
 
@@ -150,7 +150,7 @@ After uploading the code, you will observe the Microbit board display the follow
 
 [Click to download the code 2 for this lesson](./Code/LED-Dot-Matrix2.hex)
 
-### (1)Project Description:
+### (1) Project Description:
 
 Dot matrices are very commonplace in daily life. They have found wild applications in LED advertisement screens, elevator floor display, bus stop announcement and so on.
 
@@ -158,13 +158,13 @@ The LED dot matrix of Micro: Bit main board V2 contains 25 LEDs in a grid. Previ
 
 What's more, we can also click" show icon " to choose the pattern we like to display. Last but not the least, we can design our patterns by ourselves.
 
-### (2)Components Needed:
+### (2) Components Needed:
 
 Micro:bit main board V2 
 
 Micro USB cable
 
-### (3)Test Code 1:
+### (3) Test Code 1:
 
 Link computer with micro:bit board by micro USB cable, and program in MakeCode editor.
 
@@ -190,7 +190,7 @@ Complete Program :
 
 ![](./images/image-20250910093151810.png)
 
-### (6)Test Results 2 :
+### (6) Test Results 2 :
 
 After uploading the code to the Microbit, you can see the 5x5 dot matrix display cycling through the patterns and text specified in the code.（Note: the "on start" means that the code in this block only executes once, while "forever" implies that the code runs cyclically.）
 
@@ -204,17 +204,17 @@ After uploading the code to the Microbit, you can see the 5x5 dot matrix display
 
 [Click to download the code 2 for this lesson](./Code/Programmable-Buttons2.hex)
 
-### (1)Project Description:
+### (1) Project Description:
 
 Buttons can be used to control circuits. In an integrated circuit with a button, the circuit is connected when pressing the button and it is open the other way around. Micro: Bit main board V2 boasts three buttons, two are programmable buttons(marked with A and B), and the one on the other side is a reset button. By pressing the two programmable buttons can input three different signals. We can press button A or B alone or press them together and the LED dot matrix shows A,B and AB respectively. Let's get started.
 
-### (2)Components Needed:
+### (2) Components Needed:
 
 Micro:bit main board V2 
 
 Micro USB cable
 
-### (3)Test Code 1 :
+### (3) Test Code 1 :
 
 Link computer with micro:bit board by micro USB cable, and program in MakeCode editor,
 
@@ -224,7 +224,7 @@ Complete Code:
 
 ![](./images/image-20250910095454263.png)
 
-### (4)Test Results 1 :
+### (4) Test Results 1 :
 
 After uploading test code 1 to micro:bit main board V2 , the 5*5 LED dot matrix shows A if button A is pressed, B if button B pressed, and AB if button A and B pressed together.
 
@@ -240,7 +240,7 @@ Complete Program :
 
 ![](./images/image-20250910104143540.png)
 
-### (6)Test Results 2:
+### (6) Test Results 2:
 
 After uploading test code 2 to micro:bit main board V2, when pressing the button A the LEDs turning red increase while when pressing the button B the LEDs turning red reduce.
 
@@ -254,21 +254,21 @@ After uploading test code 2 to micro:bit main board V2, when pressing the button
 
 [Click to download the code 2 for this lesson](./Code/Temperature-Detection2.hex)
 
-### (1)Project Description:
+### (1) Project Description:
 
 The Micro:bit main board V2 is not equipped with a temperature sensor, but uses the temperature sensor built into NFR52833 chip for temperature detection. Therefore, the detected temperature is more closer to the temperature of the chip, and there maybe deviation from the ambient temperature.
 
-### (2)Components Needed:
+### (2) Components Needed:
 
 Micro:bit main board V2
 
 Micro USB cable
 
-### (3)Test Code 1 :
+### (3) Test Code 1 :
 
 ![](./images/15.gif)
 
-### (4)Test Results 1:
+### (4) Test Results 1:
 
 After uploading test code 1 to micro:bit main board V2, powering the main board via the USB cable, and clicking "Show console Device", the data of temperature shows in the serial monitor page as shown below.
 
@@ -280,7 +280,7 @@ Google Chrome won't be able to match devices. You'll need to use the CoolTerm se
 
 ![](./images/Animation2.gif)
 
-### (5)Test Code 2 :
+### (5) Test Code 2 :
 
 Link computer with micro:bit board by micro USB cable, and program in MakeCode editor,
 
@@ -290,7 +290,7 @@ Complete Program :
 
 ![](./images/image-20250910112243497.png)
 
-### (6)Test Results 2:
+### (6) Test Results 2:
 
 After uploading the code 2, when the ambient temperature is  less than 35℃, the 5*5 LED dot matrix shows ![](./images/image-20250905140357642.png). When the temperature is equivalent to or greater than 35℃, the pattern ![](./images/image-20250905140444458.png)appears.
 
@@ -300,17 +300,17 @@ After uploading the code 2, when the ambient temperature is  less than 35℃, th
 
 [Click to download the code 2 for this lesson](./Code/Geomagnetic-Sensor2.hex)
 
-### (1)Project Description:
+### (1) Project Description:
 
 (1) Project Description:This project aims to explain the use of the Micro: bit geomagnetic sensor, which can not only detect the strength of the geomagnetic field, but also be used as a compass to find bearings. It is also an important part of the Attitude and Heading Reference System (AHRS). Micro: Bit main board V2 uses LSM303AGR geomagnetic sensor, and the dynamic range of magnetic field is ± 50 gauss. In the board, the magnetometer module is used in both magnetic detection and compass. In this experiment, the compass will be introduced first, and then the original data of the magnetometer will be checked. The main component of a common compass is a magnetic needle, which can be rotated by the geomagnetic field and point toward the geomagnetic North Pole (which is near the geographic South Pole) to determine direction.
 
-### (2)Components Needed:
+### (2) Components Needed:
 
 Micro:bit main board V2
 
  Micro USB cable
 
-### (3)Test Code 1 :
+### (3) Test Code 1 :
 
 Link computer with micro:bit board by micro USB cable, and program in MakeCode editor.
 
@@ -320,7 +320,7 @@ Complete Program :
 
 ![](./images/image-20250910113624112.png)
 
-### (4)Test Results 1 :
+### (4) Test Results 1 :
 
 After uploading test code to micro:bit main board V2 and powering the board via the USB cable, and pressing the button A, the board asks us to calibrate compass and the LED dot matrix shows "TILT TO FILL SCREEN". Then enter the calibration page. Rotate the board until all 25 LEDs are on red as shown below.
 
@@ -360,19 +360,19 @@ Upload code 2. After calibration, tilt micro:bit board, and the LED dot matrix d
 
 [Click to download the code 2 for this lesson](./Code/Accelerometer2.hex)
 
-### (1)Project Description:
+### (1) Project Description:
 
 The Micro: Bit main board V2 has a built- in LSM303AGR gravity acceleration sensor, also known as accelerometer, with a resolution of 8/10/12 bits. The code section sets the range to 1g, 2g, 4g, and 8g.
 
 We often use accelerometer to detect the status of machines. In this project, we will introduce how to measure the position of the board with the accelerometer. And then have a look at the original three- axis data output by the accelerometer.
 
-### (2)Components Needed:
+### (2) Components Needed:
 
 Micro:bit main board V2 
 
 Micro USB cable
 
-### (3)Test Code 1 :
+### (3) Test Code 1 :
 
 Link computer with micro:bit board by micro USB cable, and program in MakeCode editor,
 
@@ -382,7 +382,7 @@ Complete Program :
 
 ![](./images/image-20250911135905779.png)
 
-### (4)Test Results 1:
+### (4) Test Results 1:
 
 After uploading Test Code 1 to the micro:bit V2 board, changing the board's orientation will cause the 5x5 dot matrix to display different numbers.
 
@@ -416,7 +416,7 @@ When the board is knocked to the floor, this process can be considered as a free
 
 Attention: if you'd like to try this function, you can also set the acceleration to 3g, 6g or 8g. But still, we do not recommend.
 
-### (5)Test Code 2 :
+### (5) Test Code 2 :
 
 ![](./images/25.gif)
 
@@ -450,13 +450,13 @@ If you're running Windows 7 or 8 instead of Windows 10, via Google Chrome won't 
 
 In this project, we focus on the light detection function of the Micro: Bit main board V2. It is achieved by the LED dot matrix since the main board is not equipped with a photoresistor.
 
-### (2)Components Needed:
+### (2) Components Needed:
 
 Micro:bit main board V2
 
 Micro USB cable
 
-### (3)Test Code:
+### (3) Test Code:
 
 Link computer with micro:bit board by micro USB cable, and program in MakeCode editor,
 
@@ -466,7 +466,7 @@ Complete Program :
 
 ![](./images/image-20250911152049091.png)
 
-### (4)Test Results:
+### (4) Test Results:
 
 Upload the test code to micro:bit main board V2, power the board via the USB cable and click "Show console Device".
 
@@ -486,17 +486,17 @@ You could open CoolTerm software, click Options, select SerialPort, set COM port
 
 [Click to download the code for this lesson](./Code/Speaker.hex)
 
-### (1)Project Description:
+### (1) Project Description:
 
 The Micro: Bit main board V2 has an built- in speaker, which makes adding sound to the programs easier. We can program the speaker to air all kinds of tones, like playing the son *Ode to Joy.*
 
-### (2)Components Needed:
+### (2) Components Needed:
 
 Micro:bit main board V2 
 
 Micro USB cable
 
-### (3)Test Code :
+### (3) Test Code :
 
 Link computer with micro:bit board by micro USB cable, and program in MakeCode editor, 
 
@@ -506,7 +506,7 @@ Complete Program :
 
 ![](./images/image-20250911175254769.png)
 
-### (4)Test Results:
+### (4) Test Results:
 
 After uploading the test code to micro:bit main board V2 and powering the board via the USB cable, the speaker utters sound and the LED dot matrix shows the logo of music.
 
@@ -518,19 +518,19 @@ After uploading the test code to micro:bit main board V2 and powering the board 
 
 [Click to download the code for this lesson](./Code/Touch-sensitive-Logo.hex)
 
-### (1)Project Description:
+### (1) Project Description:
 
 The Micro: Bit main board V2 is equipped with a golden touch- sensitive logo, which can act as an input component and function like an extra button.
 
 It contains a capacitive touch sensor that senses small changes in the electric field when pressed (or touched), just like your phone or tablet screen do.When you press it , you can activate the program.
 
-### (2)Components Needed:
+### (2) Components Needed:
 
 Micro:bit main board V2 
 
 Micro USB cable
 
-### (3)Test Code :
+### (3) Test Code :
 
 Link computer with micro:bit board by micro USB cable, and program in MakeCode editor,
 
@@ -540,7 +540,7 @@ Complete Program :
 
 ![](./images/image-20250912094108039.png)
 
-### (4)Test Results:
+### (4) Test Results:
 
 After uploading the code, touching the logo with your hand will display a heart shape on the dot matrix. Releasing your touch will reveal a number, with longer contact times displaying larger numbers.
 
@@ -554,7 +554,7 @@ After uploading the code, touching the logo with your hand will display a heart 
 
 [Click to download the code 2 for this lesson](./Code/Microphone2.hex)
 
-### (1)Project Description:
+### (1) Project Description:
 
 The Micro: Bit main board V2 is built with a microphone which can test the volume of ambient environment. When you clap, the microphone LED indicator turns on. Since it can measure the intensity of sound, you can make a noise scale or disco lighting changing with music. The microphone is placed on the opposite side of the microphone LED indicator and in proximity with holes that lets sound pass. When the board detects sound, the LED indicator lights up.
 
@@ -574,13 +574,13 @@ Complete Program :
 
 ![](./images/image-20250912095411405.png)
 
-### (4)Test Results 1:
+### (4) Test Results 1:
 
 After uploading the code, display a large heart icon when ambient sound is detected, and a small heart icon when the surroundings are quiet (Note: Sounds too faint to detect will not trigger the response).
 
 ![](./images/35.gif)
 
-### (5)Test Code 2:
+### (5) Test Code 2:
 
 Link computer with micro:bit board by micro USB cable, and program in MakeCode editor,
 
@@ -590,7 +590,7 @@ Complete Program :
 
 ![](./images/image-20250912105611120.png)
 
-### (6)Test Results 2:
+### (6) Test Results 2:
 
 ![](./images/37.gif)
 
@@ -600,7 +600,7 @@ After uploading the code, the dot matrix pulses in sync with sound changes. Pres
 
 ![](images/a3c30945c6505259c61d60561c2d386c585af52178719c4c3a6bc38fd776aa9c.jpg)
 
-### (1)Project Description:
+### (1) Project Description:
 
 Note: This lesson focuses on explaining how to upload code via Bluetooth using an app, so no code is provided. Please follow the steps in the animated gif.
 
@@ -628,7 +628,7 @@ For ios
 
 ![](./images/ios.gif)
 
-(4)Test Code :
+### (4) Test Code :
 
 Next, we'll use our phones to write code and connect via Bluetooth (Note: The process is identical for both Android and iOS devices; this demonstration uses an Android phone).
 
