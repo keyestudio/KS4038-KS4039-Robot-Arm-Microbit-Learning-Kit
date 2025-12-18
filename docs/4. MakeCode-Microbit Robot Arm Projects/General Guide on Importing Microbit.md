@@ -15,7 +15,7 @@ To use specific hardware components, you need to add the corresponding extension
 1. Copy the extension URL provided for the hardware.
 
    ```
-   Extensions_URL:https://github.com/keyestudio2019/pxt-pca9685-smallest
+   Extensions_URL: https://github.com/keyestudio2019/pxt-pca9685-smallest
    ```
 
 2. Paste the URL into the search bar on the Extensions page.

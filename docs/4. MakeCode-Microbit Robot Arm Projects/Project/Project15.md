@@ -37,7 +37,7 @@ Import Hex file, or drag the code manually (add the **pca9685** extension first)
 **⚠️ Prerequisite: This project requires importing a specific extension to function. If you are new to this or unsure how to import extensions, please refer to our "General Guide on Importing Micro:bit Extensions" first. Once you are familiar with the process, please return to this tutorial.**
 
 ```
-1Extensions_URL:https://github.com/keyestudio2019/pxt-pca9685-smallest
+Extensions_URL: https://github.com/keyestudio2019/pxt-pca9685-smallest
 ```
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S01196-10405-42470-64023" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
@@ -48,7 +48,7 @@ Import Hex file, or drag the code manually (add the **pca9685** extension first)
 
 **To import the Hex file directly, please locate the downloaded Hex file and drag it into the editor.**
 
-🏡[Click to download the code for this lesson](./Code/Button Controls Servo.hex)
+🏡[Click to download the code for this lesson](./Code2.7z)
 
 After downloading the code, simply drag it directly into the coding area to upload it. (Note: The image below is for demonstration purposes only—please drag in the code you downloaded for this lesson above.)
 

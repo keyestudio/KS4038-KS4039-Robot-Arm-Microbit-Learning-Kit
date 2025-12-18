@@ -58,9 +58,11 @@ drag the code manually (add the **pca9685** extension library first).
 
 **To import the Hex file directly, please locate the downloaded Hex file and drag it into the editor.**
 
-🏡[Click to download the code 1 for this lesson](./Code/BT Controls Robot Arm.hex)
+🏡[Click to download the code for this lesson](./Code6.7z)
 
-After downloading the code, simply drag it directly into the coding area to upload it. (Note: The image below is for demonstration purposes only—please drag in the code you downloaded for this lesson above.)
+After downloading the code, simply drag it directly into the coding area to upload it.
+ 
+ (**Note:** The image below is for demonstration purposes only—please drag in the code you downloaded for this lesson above.)
 
 ![image-20251203134322106](./media/image-20251203134322106.png)
 
@@ -69,6 +71,7 @@ After downloading the code, simply drag it directly into the coding area to uplo
 ### (1) Project Settings
 
 Tap **Settings → Project Settings**, enter **“BT Controls Robot Arm”**, and set **“No Pairing Required”** to **ON**.
+
  *(Not required if importing the provided code directly.)*
 
 ![image-20251203163611609](./media/image-20251203163611609.png)

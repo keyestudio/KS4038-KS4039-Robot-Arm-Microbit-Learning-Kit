@@ -116,7 +116,7 @@ Manually drag the code block out from the sidebar as shown below.
 
 **To import the Hex file directly, please locate the downloaded Hex file and drag it into the editor.**
 
-🏡[Click to download the code 1 for this lesson](./Code/Read the BT Data.hex)
+🏡[Click to download the code for this lesson](./Code5.7z)
 
 ![](./media/image-20251203134322106.png)
 

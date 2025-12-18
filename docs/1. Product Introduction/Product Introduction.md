@@ -1,11 +1,13 @@
-# KS4038(KS4039) Keyestudio Robot Arm Microbit Learning Kit
+# Product Introduction
 
 ![img](./media/wps1.png)
 
-## 1.Description
+## 1. Description
 
 Micro:bit is a microcontroller of ARM structure designed by the BBC. To be specific, it is only half size of a credit card, onboard with a Bluetooth, an accelerometer, an electronic compass, three buttons, a 5 x 5 LED dot matrix as well as a microphone and is mainly used for programming education of teenagers.
+
 To make Micro:bit more accessible to learn, our team specially developed this robot arm Micro:bit learning kit. It is a STEM education robot arm dedicated to DIY production, programming learning, parent-child entertainment as well as educational training. For instance, we are able to leverage the Micro:bit mainboard and two joystick modules to control the rotation angles of four servos as a way to realize the robot arm to pick up or drop objects in different positions.
+
 For your convenience, tutorials of MakeCode graphical programming and MicroPython language programming are contained in this kit, each of which boasts Micro:bit basic projects and Micro:bit robot arm projects, making it easy for enthusiasts of different ages to master.
 
 ## 2. Kit
@@ -53,14 +55,14 @@ KS4038 contains Micro:bit mainboard, but KS4039 doesn't contain it.
 5. Learning basic programming: MakeCode graphical programming and MicroPython language programming
 
 ## 4. Parameters
-Working voltage: DC 5V
-Power supply: Micro USB interface: DC 5V
-Green terminal post: DC 4.5V-28V
-Maximum output current: 1.5A
-Maximum power consumption: 32W
-Bluetooth remote distance: About 30- 50m (measured) (It is best to use it in an open area with no distracting devices around)
+- Working voltage: DC 5V
+- Power supply: Micro USB interface: DC 5V
+- Green terminal post: DC 4.5V-28V
+- Maximum output current: 1.5A
+- Maximum power consumption: 32W
+- Bluetooth remote distance: About 30- 50m (measured) (It is best to use it in an open area with no distracting devices around)
 
-## 5.Keyestudio Micro：bit 16-channel Servo Shield
+## 5. Keyestudio Micro：bit 16-channel Servo Shield
 
 ![](./media/eebc85c465703051749dd80641346e44507dafe8d7385e9e6173d8932f13c457.jpg)
 
@@ -75,12 +77,12 @@ More importantly, it adopts a golden finger interface to bring out some control 
 
 ### 5.2. Parameter
 
-I2C input, control 16-channel PWM output, capable to control 16-channel servos.
-Control chip: PCA9685PW
-Power supply: Micro USB Port: DC 5V; Green Terminals: DC 4.5V-28V
-Frequency: 40-1000Hz
-Dimension:  63-43-12mm
-Weight: 18.6g
+- I2C input, control 16-channel PWM output, capable to control 16-channel servos.
+- Control chip: PCA9685PW
+- Power supply: Micro USB Port: DC 5V; Green Terminals: DC 4.5V-28V
+- Frequency: 40-1000Hz
+- Dimension:  63-43-12mm
+- Weight: 18.6g
 
 ### 5.3. Schematic Diagram
 

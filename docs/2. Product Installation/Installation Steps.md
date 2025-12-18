@@ -3,7 +3,9 @@
 ## Essential Pre-Installation Reading:
 
 1. Servos within this product require specific angle adjustments during installation. Please calibrate each servo to its designated angle as per the tutorial before fitting. Adjustment codes are provided at corresponding locations within the guide. Failure to calibrate may result in servo damage.
+
 2. This product features multiple joint positions. Do not overtighten screws at any joint. Strictly follow the tutorial to distinguish between similar screws and their designated positions. Failure to do so may cause the product to malfunction and result in servo burnout.
+
 3. During initial operation, monitor servo temperatures closely. Should temperatures become excessively high, immediately disconnect power without delay. Inspect the product's wiring and check whether any servos are jammed.
 
 ## Part 1: Base
@@ -76,7 +78,9 @@ Components Needed
 
 2.[Click here to download the calibration code for Servo Motor 4 (Left Servo)](./Code/Servo_4.7z)
 
-3.Drag the downloaded code into the MICROBIT drive letter.![](./media/image-20251204155500616.png)
+3.Drag the downloaded code into the MICROBIT drive letter.
+
+![](./media/image-20251204155500616.png)
 
 4.Upon completion of the code upload, you should hear the servo motor rotate once before stopping, confirming that the servo has been calibrated. (If no rotation is observed, this indicates the servo is already positioned at the specified angle. Do not alter the servo's angle until its installation is complete.)
 
@@ -302,6 +306,12 @@ Pay attention to the gap on the acrylic board
 
 ![img](./media/wps97.png)
 
+![img](./media/img-20251218111058.png)
+
+![img](./media/wps97.png)
+
+![img](./media/img-20251218111145.png)
+
 ![img](./media/wps98.png)
 
 ![img](./media/wps99.png)
@@ -320,10 +330,6 @@ Pay attention to the gap on the acrylic board
 
 ![img](./media/wps106.png)
 
-![img](./media/wps107.png)
-
-![img](./media/wps108.png)
-
 ![img](./media/wps109.png)
 
 ![img](./media/wps110.png)
@@ -340,7 +346,7 @@ Pay attention to the gap on the acrylic board
 
 ![img](./media/wps113.jpg)
 
-2.[Click here to download the calibration code for Servo Motor  3(Claw Servo)](./Code/Servo_3.7z)
+2.[Click here to download the calibration code for Servo Motor 3(Claw Servo)](./Code/Servo_3.7z)
 
 3.Drag the downloaded code into the MICROBIT drive letter.
 
@@ -384,7 +390,7 @@ Pay attention to the gap on the acrylic board
 
 ![img](./media/wps124.jpg)
 
-2.[Click here to download the calibration code for Servo Motor  2(Bottom Servo)](./Code/Servo_2.7z)
+2.[Click here to download the calibration code for Servo Motor 2(Bottom Servo)](./Code/Servo_2.7z)
 
 3.Drag the downloaded code into the MICROBIT drive letter.
 

@@ -70,7 +70,7 @@ The module primarily uses a **PS2 joystick component**. It contains three signal
 
 **To import the Hex file directly, please locate the downloaded Hex file and drag it into the editor.**
 
-🏡[Click to download the code for this lesson](./Code/Read the Value of Joystick.hex)
+🏡[Click to download the code for this lesson](./Code3.7z)
 
 After downloading the code, simply drag it directly into the coding area to upload it. (Note: The image below is for demonstration purposes only—please drag in the code you downloaded for this lesson above.)
 
