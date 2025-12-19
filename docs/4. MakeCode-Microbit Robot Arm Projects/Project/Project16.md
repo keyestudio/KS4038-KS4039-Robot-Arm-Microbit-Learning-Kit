@@ -2,7 +2,7 @@
 
 ------
 
-## 1.Description
+## 1. Description
 
 The **Joystick module** is a component equipped with two analog inputs and one digital input. It is widely used in game controllers, robot control, and drone navigation.
 
@@ -51,7 +51,7 @@ The module primarily uses a **PS2 joystick component**. It contains three signal
 
 ## 4. Test Code
 
-### 1.Preparations
+### 1. Preparations
 
 1. Insert the Micro:bit mainboard into the robot arm's **16-channel servo shield**.
 2. Connect the external power supply.
@@ -78,7 +78,7 @@ After downloading the code, simply drag it directly into the coding area to uplo
 
 ------
 
-## 5.Test Result
+## 5. Test Result
 
 Open CoolTerm. As shown in the picture, select the Micro:bit's COM port and set the Baud Rate to 115200. (Note: Please select the actual COM port number on your computer; it may not necessarily be COM6 as shown in the example image.)
 

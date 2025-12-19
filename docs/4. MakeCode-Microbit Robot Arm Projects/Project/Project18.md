@@ -4,21 +4,24 @@
 
 ------
 
-## 1.Description
+## 1. Description
 
 The micro:bit control board is equipped with built-in Bluetooth Low Energy (BLE) functionality, enabling seamless wireless communication and control with a wide range of devices—including smartphones, tablets, and computers. It offers full compatibility with both Android and iOS platforms.
+
 By using a dedicated Bluetooth-enabled mobile application (BT APP), users can wirelessly interact with the micro:bit and control external peripherals connected to it—such as LEDs, motors, sensors, and more.
+
 In this project, you will:
-Explore the user interface of the BT APP,
-Learn the function of each on-screen button,
+Explore the user interface of the BT APP;
+Learn the function of each on-screen button;
 Understand how to interpret and process the character data transmitted from the app to the micro:bit via Bluetooth.
+
 This foundational knowledge will empower you to design interactive projects that bridge mobile devices and physical computing through wireless communication.
 
 ------
 
-## 2.APP Installation
+## 2. APP Installation
 
-###### **1.APP Buttons for Controlling the Robot Arm**
+###### **1. APP Buttons for Controlling the Robot Arm**
 
 ![](media/image-20251205114132601.png)
 
@@ -74,7 +77,7 @@ You can also download the application via the official Keyestudio Download Cente
 
     **Note:** Do not download APK files from third-party websites. To ensure security and compatibility, please always install the official app via Google Play, the App Store, or the official Keyestudio website.
 
-## 3.Load Code and Add Bluetooth Extension
+## 3. Load Code and Add Bluetooth Extension
 
 <iframe width="799" height="449" src="https://www.youtube.com/embed/7JNEF01WR4w" title="Name badge coding" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -108,7 +111,7 @@ Due to hardware limitations of the Micro:bit, **Bluetooth and Radio functions ca
 
   ![](./media/image-20251203120712580.png)
 
-## 4.Text code
+## 4. Text code
 
 Manually drag the code block out from the sidebar as shown below.
 
@@ -120,13 +123,13 @@ Manually drag the code block out from the sidebar as shown below.
 
 ![](./media/image-20251203134322106.png)
 
-## 5.Flash the code
+## 5. Flash the code
 
 Click **Download** to flash the code to your Micro:bit.(Remember to connect the Micro:bit board to the computer before uploading the code.)
 
 ![](./media/image-20251203140538951.png)
 
-## 6.Data Reading
+## 6. Data Reading
 
 Open CoolTerm. As shown in the picture, select the Micro:bit's COM port and set the Baud Rate to 115200. (Note: Please select the actual COM port number on your computer; it may not necessarily be COM6 as shown in the example image.)
 
@@ -146,7 +149,7 @@ Press the buttons on the App, and you will see CoolTerm display the characters c
 
 ![8](./media/8.png)
 
-## 7.Functions of Buttons
+## 7. Functions of Buttons
 
 | ![img](./media/wps1-1764745108698-8.jpg) | Connect the APP to the Bluetooth of the microbit mainboard |             |
 | :--------------------------------------: | :--------------------------------------------------------: | ----------- |

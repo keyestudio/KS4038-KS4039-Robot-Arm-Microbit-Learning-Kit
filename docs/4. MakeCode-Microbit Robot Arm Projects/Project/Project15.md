@@ -2,7 +2,7 @@
 
 ------
 
-## 1.Description
+## 1. Description
 
 In the previous project, we learned how to control the servo automatically. In this project, we are going to use the **A/B buttons** on the Micro:bit mainboard to manually control the rotation of the servo. This mimics how we might control a robot arm using a remote controller.
 
@@ -11,15 +11,15 @@ In the previous project, we learned how to control the servo automatically. In t
 
 ------
 
-## 2.Wiring Diagram
+## 2. Wiring Diagram
 
 ![img](./media/1w1.jpg)
 
 ------
 
-## 3.Test Code
+## 3. Test Code
 
-### 1.Preparations
+### 1. Preparations
 
 1. Insert the Micro:bit into the robot arm's **16-channel servo shield**.
 2. Connect the external power supply.
@@ -30,7 +30,7 @@ Import Hex file, or drag the code manually (add the **pca9685** extension first)
 
 ------
 
-### 2.drag the code manually
+### 2. drag the code manually
 
 #### Add pca9685 Extension
 
@@ -44,7 +44,7 @@ Extensions_URL: https://github.com/keyestudio2019/pxt-pca9685-smallest
 
 *(Note: The code block above is for display. Please ensure the logic matches: On Button A pressed -> Servo write 0; On Button B pressed -> Servo write 180, or specific angles as required.)*
 
-### 3.Import Hex file
+### 3. Import Hex file
 
 **To import the Hex file directly, please locate the downloaded Hex file and drag it into the editor.**
 
@@ -56,7 +56,7 @@ After downloading the code, simply drag it directly into the coding area to uplo
 
 ------
 
-## 4.Test Result
+## 4. Test Result
 
 Download the code to the Micro:bit and power on using external power. Press the **reset** button on the Micro:bit board.
 

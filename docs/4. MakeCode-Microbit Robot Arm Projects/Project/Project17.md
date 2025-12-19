@@ -2,7 +2,7 @@
 
 ------
 
-## 1.Description
+## 1. Description
 
 In this project, we will combine the previous projects to control the robot arm to achieve multiple movements via two joysticks.
 
@@ -17,7 +17,7 @@ When controlling, set the initial posture as shown below:
 
 ------
 
-## 2.Joysticks Control Logic
+## 2. Joysticks Control Logic
 
 ### Left Joystick
 
@@ -39,7 +39,7 @@ When controlling, set the initial posture as shown below:
 
 ------
 
-## 3.Wiring Diagram
+## 3. Wiring Diagram
 
 ### Servo Connections
 
@@ -72,9 +72,9 @@ When controlling, set the initial posture as shown below:
 
 ------
 
-## 4.Test Code
+## 4. Test Code
 
-### 1.Preparations
+### 1. Preparations
 
 1. Insert the Micro:bit into the robot arm's **16-channel servo shield**.
 2. Connect the external power supply.
@@ -85,7 +85,7 @@ Import Hex file, or drag the code manually (add the **pca9685** extension librar
 
 ------
 
-### 2.drag the code manually
+### 2. drag the code manually
 
 #### Add pca9685 Extension
 
@@ -97,7 +97,7 @@ Extensions_URL: https://github.com/keyestudio2019/pxt-pca9685-smallest
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S48675-42324-02846-10324" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
-### 3.Import Hex file
+### 3. Import Hex file
 
 **To import the Hex file directly, please locate the downloaded Hex file and drag it into the editor.**
 
@@ -109,7 +109,7 @@ After downloading the code, simply drag it directly into the coding area to uplo
 
 ------
 
-## Test Result
+## 5. Test Result
 
 1. Download the program to the Micro:bit.
 2. Power on using the external power supply.

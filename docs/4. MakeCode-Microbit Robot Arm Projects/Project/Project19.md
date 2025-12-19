@@ -2,7 +2,7 @@
 
 ![image-20251203112801636](./media/image-20251203112801636.png)
 
-## 1.Description
+## 1. Description
 
 In this project, we will combine the BT APP and the BT on Micro:bit to realize multiple functions of the robot arm.
 
@@ -19,7 +19,7 @@ In this project, we will combine the BT APP and the BT on Micro:bit to realize m
 
 ![img](./media/2222.jpg)
 
-## 3.Preparations
+## 3. Preparations
 
 1. **Install the Micro:bit:** Insert the Micro:bit mainboard into the robot arm's 16-channel servo shield.
    - *Note: Ensure the Micro:bit's LED matrix is facing the correct direction (usually matching the silk screen markings on the shield).*
@@ -50,7 +50,7 @@ drag the code manually (add the **pca9685** extension library first).
 
 ------
 
-## 4.Test Code
+## 4. Test Code
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S79565-28171-91749-44244" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
@@ -66,7 +66,7 @@ After downloading the code, simply drag it directly into the coding area to uplo
 
 ![image-20251203134322106](./media/image-20251203134322106.png)
 
-## 5.Test Result
+## 5. Test Result
 
 ### (1) Project Settings
 
